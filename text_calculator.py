@@ -1,6 +1,3 @@
-"""
-Реализованные сложности 3, 4, 5
-"""
 
 from collections import deque
 
